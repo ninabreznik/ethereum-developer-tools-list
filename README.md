@@ -96,6 +96,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Eth Fiddle](https://ethfiddle.com/) - IDE developed by [The Loom Network](https://loomx.io/) that allows you to write, compile and debug your smart contract. Easy to share and find code snippets.
 
 ### Other tools
+* [Play project](https://ethereum-play.github.io/editor-solidity/) - An online editor to paste in the solidity code snippets, try them out and deploy
 * [Buidler](https://github.com/nomiclabs/buidler) - Extensible developer tool that helps smart contract developers increase productivity by reliably bringing together the tools they want.
 
 ### Test blockchain networks
